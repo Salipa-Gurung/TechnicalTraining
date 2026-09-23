@@ -1,0 +1,4 @@
+pact-python>=3.4.0
+pytest
+flask
+requests
